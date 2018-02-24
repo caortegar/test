@@ -1,3 +1,10 @@
+For i in range(len(x)):
+            print(i,x[i])
+
+x= ['1', '2', '3']
+
+stringsLength.y(x)
+=======
 print('This is an example')
 for n in range (9): 
   print(n)
