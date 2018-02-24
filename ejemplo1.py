@@ -1,3 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class stringsLength:
     def y(x):
         x= list(map(int,x))
