@@ -2,8 +2,7 @@ print('This is an example')
 for n in range (9): 
   print(n)
   
-  
-  
+    
 class listfilter:
     def f(x):
         i = 0
