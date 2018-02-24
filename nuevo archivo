@@ -1,0 +1,5 @@
+Hello  - Phyton example
+
+    print("Hello world")
+    for n in range (10):
+      print(n)
